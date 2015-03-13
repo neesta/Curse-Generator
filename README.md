@@ -1,5 +1,7 @@
 # Curse-Generator
 
+[http://labs.neesta.com/curse/](http://labs.neesta.com/curse/)
+
 Random curse generator built in Flash. 
 
 
