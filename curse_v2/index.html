@@ -1,0 +1,71 @@
+﻿<!doctype html>
+<html class="no-js" lang="en">
+	<head>
+		<meta charset="utf-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Neesta Labs Curse Generator</title>
+
+		<link rel="stylesheet" href="css/foundation.css" />
+		<link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="css/styles.css" />
+
+		<script src="js/vendor/modernizr.js"></script>
+		
+	</head>
+	<body>
+		
+		<div class="container">
+		<div class="row header">
+			<div class="medium-8 columns">
+	    	    <h1>Curse Generator</h1>
+	      	</div>
+
+   			<div class="medium-2 columns right github">
+   				<a href="https://github.com/neesta/Curse-Generator" target="_blank"><i class="fa fa-github-square fa-lg"></i> Go fork yourself</a>
+   			</div>	
+		</div>
+
+		<hr>
+
+		<div class="row">
+			<div class="columns small-5">
+		      <div class="row collapse postfix-round">
+		        <div class="small-10 columns">
+		          <input type="text" placeholder="Enter a word" id="curse_field">
+		        </div>
+		        <div class="small-2 columns go-button">
+		          <a href="#" class="button postfix submit success">Go</a>
+		        </div>
+		      </div>
+			</div>
+		</div>
+
+      <div class="row">
+      	<div class="large-6 columns">
+      		<div id="audio"></div>
+      	</div>
+      </div>
+
+      <div class="row">
+      	
+      	<div class="columns small-centered">
+      		<div class="curse_display columns"></div>
+      	</div>
+
+      </div>
+
+       <div id="frameHolder"><iframe id="frame" src="" width="0" height="0"></iframe></div>
+
+		</div>
+
+		<script src="js/vendor/jquery.js"></script>
+	    <script src="js/foundation.min.js"></script>
+	    <script src="https://code.createjs.com/soundjs-0.6.0.min.js"></script></head>
+	    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+	    <script src="js/scripts.js"></script>
+	    <script>
+	      $(document).foundation();
+	    </script>
+	</body>
+</html>

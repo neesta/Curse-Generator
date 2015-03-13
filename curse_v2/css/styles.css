@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Bitter', serif;
+}
+
+.container {
+	padding: 20px;
+}
+
+.github {
+	font-size: 0.8em;
+	padding-top: 1.8em;
+}
+
+#frameHolder {
+	position: absolute;
+	top: 1000;
+	display: none;
+	visibility: hidden;
+	width: 400px;
+}
+
+.header {
+	margin-bottom: 20px;
+}
