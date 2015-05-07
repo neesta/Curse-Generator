@@ -50,8 +50,6 @@
 	}, {
 		"value" : "elbow"
 	}, {
-		"value" : "homosexual"
-	}, {
 		"value" : "munchkin"
 	}, {
 		"value" : "sanchez"
@@ -129,5 +127,11 @@
 		"value" : "cheese"
 	}, {
 		"value" : "pediatrician"
+	}, {
+		"value" : "king"
+	}, {
+		"value" : "jester"
+	}, {
+		"value" : "formaldehyde"
 	}]
 }
