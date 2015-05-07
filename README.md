@@ -2,14 +2,15 @@
 
 [http://labs.neesta.com/curse/](http://labs.neesta.com/curse/)
 
-Random curse generator built in Flash. 
+Random curse generator. 
 
 
 ####Basic Instructions
-Enter a word in the input field and click the "Submit" button. 
+Enter a word in the input field and click the "GO" button. 
 
-If the word you selected was recognized - a curse word would be randomly generated, spoken and displayed.
+Hold your ears if you don't appreciate dirty language
 
 
-####Update
-Version 2 is working beta of generator built in HTML + Javascript 
+####Flash Version
+The original version was built years ago in Flash. 
+[http://labs.neesta.com/curse_v1/](http://labs.neesta.com/curse_v1/)
